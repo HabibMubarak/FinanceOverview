@@ -1,2 +1,1 @@
-*.exe filter=lfs diff=lfs merge=lfs -text
 Exe/FinanceOverview.exe filter=lfs diff=lfs merge=lfs -text
