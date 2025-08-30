@@ -5,28 +5,28 @@ FinanceOverview ist eine Desktop-Anwendung zur Verwaltung deiner Finanzen. Mit d
 ## Screenshots
 
 ### Neue Datei erstellen
-![Neue Datei erstellen 1](App_neueDateiErstellen_1.png)  
+![Neue Datei erstellen 1](Screen/App_neueDateiErstellen_1.png)  
 Ansicht, um eine neue Finanzdatei zu erstellen.
 
-![Neue Datei erstellen 2](App_neueDateiErstellen_2.png)  
+![Neue Datei erstellen 2](Screen/App_neueDateiErstellen_2.png)  
 Weitere Details beim Erstellen einer neuen Datei.
 
 ### Neuer Eintrag
-![Neuer Eintrag](App_neue_Eintrag.png)  
+![Neuer Eintrag](Screen/App_neue_Eintrag.png)  
 Maske zum Hinzufügen eines neuen Eintrags, inklusive Datum, Geschäft, Kategorie, Produkt und Betrag.
 
 ### Eintrag bearbeiten
-![Eintrag laden](App_Eintrag_laden.png)  
+![Eintrag laden](Screen/App_Eintrag_laden.png)  
 Lade bestehende Einträge in die Bearbeitungsansicht.
 
-![Eintrag ändern](App_Eintrag_ändern.png)  
+![Eintrag ändern](Screen/App_Eintrag_ändern.png)  
 Bearbeite einen ausgewählten Eintrag.
 
-![Eintrag speichern](App_Eintrag_speichern.png)  
+![Eintrag speichern](Screen/App_Eintrag_speichern.png)  
 Speichere Änderungen an einem Eintrag.
 
 ### Hauptansicht
-![Hauptansicht](App_Seite1.png)  
+![Hauptansicht](Screen/App_Seite1.png)  
 Hauptübersicht der App, zeigt Monatsübersicht und Menüoptionen.
 
 ## Nutzung
